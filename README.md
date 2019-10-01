@@ -1,7 +1,7 @@
 # My old school RuneScape bot.
 
 This bot will drink overload,  super combat, divine super combat, prayer, restore and absorption potions for you when needed at nightmare zone.
-The bot will only start running once it's inside of the nightmare zone region.
+The bot will only start running once it's inside of the nightmare zone.
 
 ## Known bug:
 
