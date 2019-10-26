@@ -9,3 +9,5 @@ When you open or close the SideBar, the plugin stops working and has to be resta
 
 ## Missing functionality (no longer in development):
 Auto banking and nightmare zone game starting.
+
+```Works only in fixed mode. Feel free to add other resolution modes (only a few lines)```
